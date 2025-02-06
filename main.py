@@ -4,9 +4,9 @@ import streamlit as st
 st.set_page_config(page_title="Community Resource Hub - NGO Portal", layout="wide")
 
 # Header
-st.title("Be Good to Your Community")
-st.markdown("### Access Vital Resources to Make a Difference")
-st.markdown("Get connected with essential services and support to enhance your life and community!")
+st.title("Community Resource Hub")
+st.markdown("### Access resources and contact NGO's")
+st.markdown("Get connected with essential services!")
 
 # Main sections
 st.markdown("## Explore Our Services")
